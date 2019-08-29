@@ -24,6 +24,7 @@ import (
 	_ "github.com/portworx/px/handler/logs"
 	_ "github.com/portworx/px/handler/node"
 	_ "github.com/portworx/px/handler/pvc"
+	_ "github.com/portworx/px/handler/role"
 	_ "github.com/portworx/px/handler/volume"
 	_ "github.com/portworx/px/handler/volumeclone"
 	_ "github.com/portworx/px/handler/volumesnapshot"
